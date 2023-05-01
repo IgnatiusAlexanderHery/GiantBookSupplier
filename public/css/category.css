@@ -1,0 +1,7 @@
+.category-title{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-top: solid white;
+}
